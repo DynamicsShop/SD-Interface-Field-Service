@@ -4,4 +4,28 @@
 
 #### Enhancements
 
-#### Bug Fixes
+- AppSource App - Initial build.
+
+- AppSource App - A new Field Service Event Type Setup table with associated pages and functionality was created.
+
+- AppSource App - A new Field Service Event table with associated pages and functionality was created.
+
+- AppSource App - A new Field Service Event Archive table with associated pages and functionality was created.
+
+- AppSource App - A new table to map outbound Field Service API Call Events in Business Central was created with associated pages and functionality. 
+
+- AppSource App - A new table to log outbound Field Service API Call Events in Business Central was created with associated pages and functionality.
+
+- AppSource App - A new table to hold archived outbound Field Service API Call Events in Business Central was created with associated pages and functionality.
+
+- AppSource App - The ISV Licence controller was added to the SD Interface Field Service App.
+
+- AppSource App - A permission set, SDY FS ADMIN, was created.
+
+- AppSource App - An Assisted Setup action was added to the SD Interface Field Service Setup Card to import the Event Type records on fresh install of the App.
+
+- AppSource App - Field captions in the SD Interface Field Service Event Types list were recaptioned.
+
+- AppSource App - Field captions in the SD Interface Field Service Events list were recaptioned.
+
+- AppSource App - The Product Page link in the About page was updated.
