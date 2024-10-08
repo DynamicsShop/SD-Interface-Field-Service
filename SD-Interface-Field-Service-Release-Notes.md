@@ -1,5 +1,11 @@
 ## SD Interface Field Service
 
+### 1.0.1
+
+#### Enhancements
+
+- AppSource App - Event Cues in the Role Centre were optimised.
+
 ### 1.0.0
 
 #### Enhancements
