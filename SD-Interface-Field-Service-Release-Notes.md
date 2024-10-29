@@ -1,5 +1,19 @@
 ## SD Interface Field Service
 
+### 1.0.2
+
+#### Enhancements
+
+- AppSource App - The Event Type in the SD Interface Field Service Events was made editable.
+
+- AppSource App - A change was made to the licence expiry notification. The logic for checking for expiry dates was reworked.
+
+- AppSource App - Enhancements were made to the App Request Subscription page.
+
+- AppSource App - ToolTips were updated in the About, Product Activation, and Tenant Subscription pages.
+
+- AppSource App - Additional phrases were added as search phrases for the SD Intelli Pricing pages.
+
 ### 1.0.1
 
 #### Enhancements
