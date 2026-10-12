@@ -1,5 +1,19 @@
 ## SD Interface Field Service
 
+### 1.1.1
+
+#### Enhancements
+
+- Telemetry was added to log when an event is processed in SD Interface Field Service.
+
+- The link in the View Our Apps action on the Setup Card was updated.
+
+- The Manage Subscriptions Page, accessed from the Setup Card, was updated.
+
+- An update was made to the message displayed on the Activation page on initial installation of the App.
+
+- The notification prompting users to activate a free trial of SD Interface Field Service on a fresh install has been limited to display no more than once per hour on standard role centres.
+
 ### 1.1.0
 
 #### Enhancements
